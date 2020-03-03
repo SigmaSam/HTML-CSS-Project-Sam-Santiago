@@ -1,0 +1,9 @@
+.image-div {
+    display: inline-block;
+    text-align: center; 
+}
+
+#image {
+    display: block;
+    max-width: 100%; 
+}
